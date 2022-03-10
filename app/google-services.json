@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "44250465104",
+    "project_id": "login-and-sign-up-app-mvvm",
+    "storage_bucket": "login-and-sign-up-app-mvvm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44250465104:android:f428deee675bfe14f26255",
+        "android_client_info": {
+          "package_name": "com.example.loginandsignupappmvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44250465104-bjlv2et3o68dk51ti86h6nv09ues14a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqQgdxdAw26N2UuRC61zyzIQY5lxm3yXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44250465104-bjlv2et3o68dk51ti86h6nv09ues14a4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
